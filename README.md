@@ -1,3 +1,5 @@
+<img src="numpy-logo.svg" alt="NumPy Logo" style="width: 300px; height: 200px;">
+
 # 🧮 NumPy Python Library 🧮
 
 ## 📚 Topics Covered:
